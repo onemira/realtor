@@ -11,4 +11,4 @@ The website will consist of 5 sections:
 -Sold properties
 -Contact
 
-It will be built as SPA in React using React Router. Each detail will be shown once clicked. She will be able to CDUR the listings on her own side by using API that I will create.
+It will be built as SPA in React using React Router. Each detail will be shown once clicked. She will be able to CRUD the listings on her own side by using API that I will create.
